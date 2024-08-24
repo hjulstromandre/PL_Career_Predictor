@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PL_doping_Screener.iml" filepath="$PROJECT_DIR$/.idea/PL_doping_Screener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PL_Career_Predictor.iml" filepath="$PROJECT_DIR$/.idea/PL_Career_Predictor.iml" />
     </modules>
   </component>
 </project>
